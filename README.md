@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Computer Engineering Student | 🤖 AI & Data Science Enthusiast
+  💻 Computer Engineering Student | 🤖 AI ML & Data Science Enthusiast
 </h3>
 
 <p align="center">
