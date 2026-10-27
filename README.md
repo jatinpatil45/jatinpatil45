@@ -58,18 +58,25 @@
 
 ## 🌐 Connect With Me
 
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <!-- Replace each placeholder with your actual profile URL before publishing. -->
-  <a href="jatin-patil-b75146376">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jatin-patil-b75146376">
+    <img src="https://img.shields.io/badge/LinkedIn-0A84C6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/jatin.__.0.7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:jatinpatil2233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00B8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<p align="center">
+  <i>💬 Let's connect, collaborate, and build something amazing.</i>
+</p>
+
 
 ---
 
