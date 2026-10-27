@@ -2,10 +2,10 @@
 <h1 align="center">
   👋 Hey, I'm <span style="color:#00E5FF">Jatin Patil</span>
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI+%26+Data+Science+Enthusiast;Building+AI-Powered+Projects;Learning+Something+New+Every+Day" alt="Typing introduction" />
+</p>
 
-<h3 align="center">
-  💻 Computer Engineering Student | 🤖 AI ML & Data Science Enthusiast
-</h3>
 <p align="center">
   <a href="https://github.com/jatinpatil45">
     <img src="https://img.shields.io/badge/GitHub-View%20Profile-00B8D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
