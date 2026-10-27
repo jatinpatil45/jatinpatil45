@@ -80,3 +80,10 @@
 <p align="center">
   <i>Code. Learn. Build. Repeat. 💻</i>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jatinpatil45/jatinpatil45/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
