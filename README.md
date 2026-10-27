@@ -28,21 +28,6 @@
 </p>
 
 ---
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI+%26+Data+Science+Enthusiast;Building+AI-Powered+Projects;Learning+Something+New+Every+Day" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/jatinpatil45">
-    <img src="https://img.shields.io/badge/GitHub-jatinpatil45-00E5FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://jatinpatil45.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00B8D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
 ## 💫 About Me
 
 🎓 Computer Engineering student from India  
