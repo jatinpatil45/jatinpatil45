@@ -58,24 +58,30 @@
 
 ## 🌐 Connect With Me
 
+<h2 align="center">🌐 Let's Connect</h2>
 
-## 🌐 Connect With Me
+<p align="center">
+  <i>Have an idea, a project, or just want to talk tech? Let's connect!</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jatin-patil-b75146376">
-    <img src="https://img.shields.io/badge/LinkedIn-0A84C6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00B8D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/jatin.__.0.7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow- E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="mailto:jatinpatil2233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00B8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <i>💬 Let's connect, collaborate, and build something amazing.</i>
+  <sub>⚡ Open to learning, collaboration, and exciting tech projects.</sub>
 </p>
+
 
 
 ---
