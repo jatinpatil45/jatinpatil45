@@ -6,25 +6,16 @@
 <h3 align="center">
   💻 Computer Engineering Student | 🤖 AI ML & Data Science Enthusiast
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Projects;Exploring+Machine+Learning;Turning+Ideas+Into+Code;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <a href="https://github.com/jatinpatil45">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-161B22?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-00B8D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="https://github.com/jatinpatil45?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-00B8D4?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+    <img src="https://img.shields.io/badge/Explore-Projects-00B8D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
   </a>
   <a href="https://jatinpatil45.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00E5FF?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00B8D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinpatil45&style=flat-square&color=00B8D4&label=PROFILE+VISITORS" alt="Profile visitors" />
 </p>
 
 ---
