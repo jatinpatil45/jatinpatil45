@@ -35,6 +35,13 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,firebase,git,github,vscode,gcp&theme=dark" alt="Technology icons" />
 </p>
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jatinpatil45/jatinpatil45/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -97,9 +104,24 @@
   <i>Code. Learn. Build. Repeat. 💻</i>
 </p>
 
-## 🐍 Contribution Snake
+## Ending
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jatinpatil45/jatinpatil45/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting!;Keep+Learning+%26+Building!;See+You+Around+%F0%9F%91%8B" alt="Thanks for visiting" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/jatinpatil45?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-00B8D4?style=for-the-badge&logoColor=white" alt="Star my repositories" />
+  </a>
+</p>
+
+<h3 align="center">
+  💙 Show some love by starring my repositories!
+</h3>
+
+<p align="center">
+  <sub>Made with 💻 and lots of ☕ by Jatin Patil</sub>
+</p>
+
 
