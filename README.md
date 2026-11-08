@@ -104,7 +104,7 @@
   <i>Code. Learn. Build. Repeat. 💻</i>
 </p>
 
-## Ending
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting!;Keep+Learning+%26+Building!;See+You+Around+%F0%9F%91%8B" alt="Thanks for visiting" />
