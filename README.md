@@ -87,7 +87,6 @@
   <sub>⚡ Open to learning, collaboration, and exciting tech projects.</sub>
 </p>
 
-
 ---
 
 <p align="center">
